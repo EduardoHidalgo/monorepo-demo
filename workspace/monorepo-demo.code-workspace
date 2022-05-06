@@ -1,0 +1,41 @@
+{
+  "folders": [
+    {
+      "path": "..",
+      "name": "root"
+    },
+    {
+      "path": "../apps/backoffice",
+      "name": "app/backoffice"
+    },
+    {
+      "path": "../apps/landing",
+      "name": "app/landing"
+    },
+    {
+      "path": "../apps/storefront",
+      "name": "app/storefront"
+    },
+    {
+      "path": "../apps/dashboard",
+      "name": "app/dashboard"
+    },
+    {
+      "path": "../apis/marketing",
+      "name": "api/marketing"
+    },
+    {
+      "path": "../apis/payments",
+      "name": "api/payments"
+    },
+    {
+      "path": "../apis/store",
+      "name": "api/store"
+    },
+    {
+      "path": "../apis/vendors",
+      "name": "api/vendors"
+    }
+  ],
+  "settings": {}
+}

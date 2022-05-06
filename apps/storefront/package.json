@@ -1,0 +1,22 @@
+{
+  "name": "storefront",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "yarn open && next dev -p 5003",
+    "open": "open http://localhost:5003 ",
+    "start": "yarn open && next start -p 5003"
+  },
+  "dependencies": {
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.31",
+    "@types/react": "18.0.8",
+    "@types/react-dom": "18.0.3",
+    "typescript": "4.6.4"
+  }
+}
